@@ -1,0 +1,5 @@
+org: "deis"
+pull_policy: "IfNotPresent"
+docker_tag: v2.3.5
+global:
+  storage: minio
